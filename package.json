@@ -1,0 +1,22 @@
+{
+  "name": "openvox-sms-worker-app",
+  "version": "0.0.1",
+  "description": "Sample of Openvox sms worker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antirek/openvox-sms-worker-app.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antirek/openvox-sms-worker-app/issues"
+  },
+  "homepage": "https://github.com/antirek/openvox-sms-worker-app",
+  "dependencies": {
+    "openvox-sms-worker": "0.0.1"
+  }
+}
